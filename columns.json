@@ -108,6 +108,10 @@
       "name": "SimKL",
       "description": "Is SimKL supported"
     },
+    "Foss": {
+      "name": "Foss",
+      "description": "Is this application Open Source"
+    },
     "siteFeatures": {
       "name": "Features",
       "description": "This extensions features"
@@ -374,6 +378,10 @@
       {
         "key": "hasSimKLSupport",
         "hidden": false
+      },
+      {
+        "key": "Foss",
+        "hidden":false
       },
       {
         "key": "siteFeatures",

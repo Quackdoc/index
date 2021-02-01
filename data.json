@@ -3582,6 +3582,7 @@
             "hasAnilistSupport": "N",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "Y",
+            "Foss": "N",
             "siteFeatures": "Stream Anime | Download Episodes"
         },
         {
@@ -3593,6 +3594,7 @@
             "hasAnilistSupport": "N",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "N",
+            "Foss": "N",
             "siteFeatures": "Read Manga"
         },
         {
@@ -3604,6 +3606,7 @@
             "hasAnilistSupport": "",
             "hasKitsuSupport": "",
             "hasSimKLSupport": "",
+            "Foss": "N",
             "siteFeatures": ""
         },
         {
@@ -3615,6 +3618,7 @@
             "hasAnilistSupport": "Y",
             "hasKitsuSupport": "Y",
             "hasSimKLSupport": "Y",
+            "Foss": "Y",
             "siteFeatures": "Stream Anime | Download Episodes"
         },
         {
@@ -3626,6 +3630,7 @@
             "hasAnilistSupport": "",
             "hasKitsuSupport": "",
             "hasSimKLSupport": "",
+            "Foss": "N",
             "siteFeatures": "Read Novels"
         },
         {
@@ -3637,6 +3642,7 @@
             "hasAnilistSupport": "N",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "N",
+            "Foss": "N",
             "siteFeatures": "Read Manga"
         },
         {
@@ -3648,6 +3654,7 @@
             "hasAnilistSupport": "Y",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "Y",
+            "Foss": "Y",
             "siteFeatures": "Stream Anime "
         }
     ],
@@ -3661,6 +3668,7 @@
             "hasAnilistSupport": "Y",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "N",
+            "Foss": "N",
             "siteFeatures": "Stream Anime | Download Episodes"
         },
         {
@@ -3672,6 +3680,7 @@
             "hasAnilistSupport": "N",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "N",
+            "Foss": "N",
             "siteFeatures": "Stream Anime | Download Episodes"
         },
         {
@@ -3683,6 +3692,7 @@
             "hasAnilistSupport": "N",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "Y",
+            "Foss": "N",
             "siteFeatures": "Stream Anime | Download Episodes"
         },
         {
@@ -3694,6 +3704,7 @@
             "hasAnilistSupport": "Y",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "N",
+            "Foss": "N",
             "siteFeatures": "Stream Anime | Download Episodes"
         },
         {
@@ -3705,6 +3716,7 @@
             "hasAnilistSupport": "N",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "Y",
+            "Foss": "N",
             "siteFeatures": "Stream Anime | Download Episodes"
         },
         {
@@ -3716,6 +3728,7 @@
             "hasAnilistSupport": "N",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "N",
+            "Foss": "N",
             "siteFeatures": "Stream Anime | Download Episodes"
         },
         {
@@ -3727,6 +3740,7 @@
             "hasAnilistSupport": "N",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "N",
+            "Foss": "N",
             "siteFeatures": "Stream Anime"
         },
         {
@@ -3738,6 +3752,7 @@
             "hasAnilistSupport": "Y",
             "hasKitsuSupport": "Y",
             "hasSimKLSupport": "N",
+            "Foss": "Y",
             "siteFeatures": "Read Manga, Manhwa etc | Download Chapters"
         },
         {
@@ -3749,7 +3764,8 @@
             "hasAnilistSupport": "Y",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "Y",
-            "siteFeatures": "Stream Anime"
+            "siteFeatures": "Stream Anime",
+            "Foss": "Y"
         },
         {
             "siteName": "Ranobe",
@@ -3760,6 +3776,7 @@
             "hasAnilistSupport": "N",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "N",
+            "Foss": "N",
             "siteFeatures": "Read Light Novels"
         },
         {
@@ -3771,6 +3788,7 @@
             "hasAnilistSupport": "?",
             "hasKitsuSupport": "?",
             "hasSimKLSupport": "?",
+            "Foss": "N",
             "siteFeatures": ""
         }
     ],
@@ -3784,6 +3802,7 @@
             "hasAnilistSupport": "",
             "hasKitsuSupport": "",
             "hasSimKLSupport": "",
+            "Foss": "Y",
             "siteFeatures": ""
         },
         {
@@ -3795,6 +3814,7 @@
             "hasAnilistSupport": "N",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "N",
+            "Foss": "Y",
             "siteFeatures": "Download Manga | Convertible to PDF"
         },
         {
@@ -3806,6 +3826,7 @@
             "hasAnilistSupport": "N",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "N",
+            "Foss": "Y",
             "siteFeatures": "Download Anime and Manga | For PC"
         },
         {
@@ -3817,6 +3838,7 @@
             "hasAnilistSupport": "N",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "N",
+            "Foss": "N",
             "siteFeatures": "Download Manga"
         },
         {
@@ -3828,6 +3850,7 @@
             "hasAnilistSupport": "N",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "N",
+            "Foss": "Y",
             "siteFeatures": "Download Manga"
         },
         {
@@ -3839,6 +3862,7 @@
             "hasAnilistSupport": "",
             "hasKitsuSupport": "",
             "hasSimKLSupport": "",
+            "Foss": "Y",
             "siteFeatures": ""
         },
         {
@@ -3850,6 +3874,7 @@
             "hasAnilistSupport": "Y",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "N",
+            "Foss": "Y",
             "siteFeatures": "Read downloaded Manga, Manhwa, Comic, etc"
         },
         {
@@ -3861,6 +3886,7 @@
             "hasAnilistSupport": "Y",
             "hasKitsuSupport": "Y",
             "hasSimKLSupport": "",
+            "Foss": "Y",
             "siteFeatures": ""
         }
     ],
@@ -3874,6 +3900,7 @@
             "hasAnilistSupport": "N",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "N",
+            "Foss": "Y",
             "siteFeatures": "Download Anime and Manga | For PC"
         },
         {
@@ -3885,6 +3912,7 @@
             "hasAnilistSupport": "Y",
             "hasKitsuSupport": "N",
             "hasSimKLSupport": "N",
+            "Foss": "Y",
             "siteFeatures": "Read downloaded Manga, Manhwa, Comic, etc"
         },
         {
@@ -3896,6 +3924,7 @@
             "hasAnilistSupport": "Y",
             "hasKitsuSupport": "Y",
             "hasSimKLSupport": "Y",
+            "Foss": "Y",
             "siteFeatures": "Stream Anime | Download Episodes"
         }
     ],
@@ -3909,6 +3938,7 @@
             "hasAnilistSupport": "Y",
             "hasKitsuSupport": "Y",
             "hasSimKLSupport": "Y",
+            "Foss": "Y",
             "siteFeatures": "Sync your anime list from various streaming sites & programs asap"
         }
     ],
